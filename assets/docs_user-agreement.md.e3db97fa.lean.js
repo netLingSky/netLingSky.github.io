@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as p,a as r}from"./app.44a66985.js";const m=JSON.parse('{"title":"\u7528\u6237\u534F\u8BAE","description":"","frontmatter":{},"headers":[],"relativePath":"docs/user-agreement.md"}'),t={name:"docs/user-agreement.md"},h=r("",35),s=[h];function n(c,d,o,i,_,l){return a(),p("div",null,s)}var x=e(t,[["render",n]]);export{m as __pageData,x as default};
